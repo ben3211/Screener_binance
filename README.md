@@ -1,7 +1,6 @@
 # Crypto screener 
 
-## So Pekocko
-![](img/Crypto_screener.png)
+![](img/Crypto_screener.PNG)
 
 ***
 
