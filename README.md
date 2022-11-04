@@ -4,4 +4,4 @@
 
 ***
 
-🔍 This is a screener fetching data from Binance, using unicorn Biance Websocket API. 🚀
+🔍 This is a screener fetching live data from Binance, using unicorn Biance Websocket API. 🚀
