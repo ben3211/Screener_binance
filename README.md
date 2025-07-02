@@ -1,4 +1,4 @@
-# Crypto screener 
+# Crypto screener
 
 ![](img/Crypto_screener.PNG)
 
